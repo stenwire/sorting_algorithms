@@ -1,2 +1,2 @@
 # sorting_algorithms
-Sorting Algos in DSA
+> Sorting Algos in DSA
